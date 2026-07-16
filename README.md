@@ -32,3 +32,21 @@ The raw data required substantial cleaning: missing values were stored as litera
 ## Business Recommendation
 
 Rather than a generic "bad weather" dispatch buffer, delivery platforms should implement a **dynamic buffer specifically triggered by low-visibility weather during high-traffic windows** (especially the 7–9 PM
+## Dashboard Preview
+
+**Page 1 — Overview Dashboard**
+![Dashboard Overview](dashboard_overview.png)
+
+**Page 2 — Key Insights & Recommendations**
+![Key Insights](key_insights.png)
+
+## Files in this Repository
+
+- `delivery_final_clean.csv` — cleaned dataset (post SQL processing)
+- `Delivery_Analytics_Dashboard.pbix` — Power BI dashboard file
+- `dashboard_overview.png`, `key_insights.png` — dashboard screenshots
+- SQL scripts used for cleaning and analysis
+
+## Author
+
+Malvika Doddamani — [GitHub](https://github.com/Malvika1820) | [LinkedIn](https://www.linkedin.com/in/malvika-doddamani-9758a6308)
